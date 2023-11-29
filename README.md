@@ -149,6 +149,6 @@ I love the nature
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
+Credit: [Mona shamma](https://github.com/0xabdulkhalid)
 
 Last Edited on: 09/11/2022
