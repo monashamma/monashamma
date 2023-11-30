@@ -16,9 +16,9 @@
 - Currently learning Web Development by Self
 - Personal website [link](https://www.0xabdulkhalid.ml)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
--I love weights lifting
--I love coffee 
--I love the nature
+- I love weights lifting
+- I love coffee 
+- I love the nature
 -I love my major
 <br><br>
 
