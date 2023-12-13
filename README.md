@@ -19,7 +19,7 @@
 - I love weights lifting
 - I love coffee 
 - I love the nature
--I love my major
+-I love my 
 bdjkfn
 dfrf
 refre
