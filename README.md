@@ -23,17 +23,17 @@
 <br>
 
 
-code pade A
+code page A
 fbdj
 dfdf
 dsfg
 
-code pade B
+code page B
 fbdj
 dfdf
 dsfg
 
-code pade C
+code page C
 fbdj
 dfdf
 dsfg
